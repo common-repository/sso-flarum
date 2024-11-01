@@ -1,0 +1,146 @@
+# Copyright (C) 2021 maicol07
+# This file is distributed under the same license as the SSO for Flarum plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: SSO for Flarum 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flarum_sso_wp_plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-23T14:27:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: sso-flarum\n"
+
+#. Plugin Name of the plugin
+msgid "SSO for Flarum"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/maicol07/flarum-sso-wp-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for your WordPress website to get the SSO extension working"
+msgstr ""
+
+#. Author of the plugin
+msgid "maicol07"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://maicol07.it"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:67
+#: svn/admin/class-sso-flarum-admin.php:67
+msgid "Flarum SSO Plugin Settings"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:68
+#: svn/admin/class-sso-flarum-admin.php:68
+msgid "Flarum SSO Plugin"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:109
+#: svn/admin/class-sso-flarum-admin.php:109
+msgid "Enable SSO"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:120
+#: svn/admin/class-sso-flarum-admin.php:120
+msgid "Flarum URL"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:131
+#: svn/admin/class-sso-flarum-admin.php:131
+msgid "Root Domain"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:142
+#: svn/admin/class-sso-flarum-admin.php:142
+msgid "API Key"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:153
+#: svn/admin/class-sso-flarum-admin.php:153
+msgid "Password Token"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:164
+#: svn/admin/class-sso-flarum-admin.php:164
+msgid "Verify SSL"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:175
+#: svn/admin/class-sso-flarum-admin.php:175
+msgid "SSL certificate absolute path"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:186
+#: svn/admin/class-sso-flarum-admin.php:186
+msgid "Update user avatar"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:293
+#: admin/class-sso-flarum-admin.php:323
+#: svn/admin/class-sso-flarum-admin.php:293
+#: svn/admin/class-sso-flarum-admin.php:323
+msgid "Settings"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:296
+#: admin/class-sso-flarum-admin.php:325
+#: admin/class-sso-flarum-admin.php:326
+#: svn/admin/class-sso-flarum-admin.php:296
+#: svn/admin/class-sso-flarum-admin.php:325
+#: svn/admin/class-sso-flarum-admin.php:326
+msgid "Donate"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:299
+#: svn/admin/class-sso-flarum-admin.php:299
+msgid "Docs"
+msgstr ""
+
+#: admin/class-sso-flarum-admin.php:324
+#: svn/admin/class-sso-flarum-admin.php:324
+msgid "Leave a review"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:13
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:13
+msgid "Flarum SSO Settings"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:19
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:19
+msgid "General settings"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:22
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:22
+msgid "These settings apply to all Flarum SSO Plugin functionality. To know more about something check the <a href=\"https://docs.maicol07.it/en/flarum-sso/plugins/wordpress\">docs</a>."
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:47
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:47
+msgid "Memberpress"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:48
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:48
+msgid "JWT (Json Web Token)"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:52
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:52
+msgid "ACTIVE"
+msgstr ""
+
+#: admin/partials/sso-flarum-admin-settings-display.php:55
+#: svn/admin/partials/sso-flarum-admin-settings-display.php:55
+msgid "NOT ACTIVE"
+msgstr ""
